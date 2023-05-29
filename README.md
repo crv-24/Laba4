@@ -5,4 +5,5 @@
 
 Запись попадает в базу данных MySQL
 Откуда берутся записи для вывода на сайте
-![image](https://github.com/SashaTrue/Laba4/assets/32790158/64d2e49f-ac89-4b33-ae21-f9f4db29fe42)
+![image](https://github.com/SashaTrue/Laba4/assets/32790158/cbc454e3-bfa4-42b6-ad1a-ca5375f0d049)
+
