@@ -5,7 +5,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Student List</title>
+    <title>Music List</title>
     <style>
         /* Добавить стили для заголовков */
 
@@ -84,21 +84,21 @@
     </style>
 </head>
 <body>
-<h2>Add Student</h2>
+<h2>Add Music</h2>
 <form action="insert" method="post">
     <label for="name">Name:</label>
     <input type="text" id="name" name="name" required><br>
-    <label for="surname">Surname:</label>
-    <input type="text" id="surname" name="surname" required><br>
-    <label for="group">Group:</label>
-    <input type="text" id="group" name="group" required><br>
-    <label for="age">Age:</label>
-    <input type="number" id="age" name="age" required><br>
-    <label for="subject">Subject:</label>
-    <input type="text" id="subject" name="subject" required><br>
+    <label for="author">Author:</label>
+    <input type="text" id="author" name="author" required><br>
+    <label for="year">Year:</label>
+    <input type="number" id="group" name="year" required><br>
+    <label for="album">Album:</label>
+    <input type="text" id="album" name="album" required><br>
+    <label for="country">Country:</label>
+    <input type="text" id="country" name="country" required><br>
     <input type="submit" value="Add">
 </form>
-<h2>Student List</h2>
+<h2>Music List</h2>
 <table>
     <thead>
     <tr>
